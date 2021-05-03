@@ -3,8 +3,12 @@ Jack Donnelly
 CPSC 350-02
 Assignment 6
 My partner for this assignment was Scott Foreman, 2324296, sforeman@chapman.edu.
-References for assignment: Mostly used things from past assignments. www.cplusplus.com is the number one source for making use of everything built into c++. 
+References for assignment:
+-Mostly used things from past assignments. www.cplusplus.com is the number one source for making use of everything built into c++. 
+-https://www.tutorialspoint.com/cplusplus/cpp_friend_functions.htm
+-https://www.tutorialspoint.com/cplusplus/assignment_operators_overloading.htm
 Run Code by running the .exe file as per usual, note that pressing enter in menu with no input may cause the program to abort depending on your hardware specifications
+The default ID for having no advisor is -1.
 Included Files:
 Assignment6.exe
 BST.h
